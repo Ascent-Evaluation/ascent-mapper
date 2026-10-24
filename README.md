@@ -20,10 +20,10 @@ Not sure which Mac you have? Choose **Apple menu → About This Mac**. A line re
 
 Ascent Mapper needs **macOS 12 Monterey or later**, or **64-bit Windows 10 or later**.
 
-## Installing an early build
+## Installing
 
-Early builds are **prereleases** and are not yet signed, so your computer will warn you
-before opening Ascent Mapper the first time. You only have to get past this once.
+Ascent Mapper is not yet signed, so your computer will warn you before opening it the
+first time. You only have to get past this once.
 
 **On a Mac**
 
